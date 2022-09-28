@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="arkadasSayilar_v22/src"/>
+	<classpathentry kind="src" path="Arrays_v14/src"/>
+	<classpathentry kind="src" path="DataTypes_v7/src"/>
+	<classpathentry kind="src" path="Do-WhileLoops_v13/src"/>
+	<classpathentry kind="src" path="forLoops_v11/src"/>
+	<classpathentry kind="src" path="helloWorld_v5/src"/>
+	<classpathentry kind="src" path="If-Else_v8/src"/>
+	<classpathentry kind="src" path="JavaApplication22/src"/>
+	<classpathentry kind="src" path="miniProjeAsalSayi_v19/src"/>
+	<classpathentry kind="src" path="mukemmelSayi_v21/src"/>
+	<classpathentry kind="src" path="multiDimensionalArrayDemo_v16/src"/>
+	<classpathentry kind="src" path="reCapDemo1_v9/src"/>
+	<classpathentry kind="src" path="reCapDemo2_v15/src"/>
+	<classpathentry kind="src" path="sayiBulma/src"/>
+	<classpathentry kind="src" path="sesliHarfler_v20/src"/>
+	<classpathentry kind="src" path="stringsDemo_v17/src"/>
+	<classpathentry kind="src" path="switchDemo_v10/src"/>
+	<classpathentry kind="src" path="variables_v6/src"/>
+	<classpathentry kind="src" path="WhileLoops_v12/src"/>
+	<classpathentry kind="output" path="Arrays_v14/build/classes"/>
+</classpath>
